@@ -5,6 +5,7 @@ Welcome to the BORG. You have just arrived and are probably a bit lost on how be
 * Our group admin is Hanouf Al Hattan (Hanouf.AlHattan@kaust.edu.sa). She sits in Building 3, Level 4, sea-side, in the CBRC area. Hanouf will be able to organize your KAUST ID, KAUST login, research equipment, stationary, etc. Hanouf will also plan and register your travels.
 * Once you have a KAUST login and email, register and sign in to http://scale-kaust.slack.com/ and join the #borg channel. Ask  user @leechuck to add you to this private channel.
 * The BORG group calendar is available at https://calendar.google.com/calendar?cid=cWoybXQwNXJuNGc2MDJ2bjJoZmlxMGM2dWdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ you can find our events (group meeting, journal club) there.
+* Get the Github Education Pack for free at https://education.github.com/
 * For any IT-related help, send an email to ithelpdesk@kaust.edu.sa or go to the IT walk-in helpdesk in Building 14.
 * There is a map at http://maps.kaust.edu.sa.
 
