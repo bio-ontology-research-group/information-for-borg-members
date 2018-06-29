@@ -14,3 +14,4 @@ Welcome to the BORG. You have just arrived and are probably a bit lost on how be
 * You work will almost certainly involve use of our HPC environment. Get yourself familiar with our cluster by logging in at alogin.dragon.kaust.edu.sa.
 * You will almost certainly have to work on the command line. If you have not used the command line before, print https://learncodethehardway.org/unix/bash_cheat_sheet.pdf and pin it to your workspace!
 * You should use an editor suitable for coding both on a graphical interface and the command line. `vim` and `emacs` are good places to start. If you have not used them, print https://github.com/hackjutsu/vim-cheatsheet (for vim) or https://www.gnu.org/software/emacs/refcards/pdf/refcard.pdf (for emacs) and pin it on the other side of your workspace.
+* You find at https://docs.google.com/document/d/1VluiAd2a55t0MAjO78FHjmkLDCPN83LcZnF9QqQxcLc/edit?usp=sharing some useful recourses.
