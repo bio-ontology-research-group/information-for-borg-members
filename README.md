@@ -8,6 +8,7 @@ Welcome to the BORG. You have just arrived and are probably a bit lost on how be
 * Get the Github Education Pack for free at https://education.github.com/
 * For any IT-related help, send an email to ithelpdesk@kaust.edu.sa or go to the IT walk-in helpdesk in Building 14.
 * There is a map at http://maps.kaust.edu.sa.
+* Register at https://trello.com/ and join https://trello.com/b/4IbXybSm/papers-and-projects to see active projects in our group.
 
 # Research tips
 * You work will almost certainly involve use of our HPC environment. Get yourself familiar with our cluster by logging in at alogin.dragon.kaust.edu.sa.
